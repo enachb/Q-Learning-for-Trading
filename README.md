@@ -1,4 +1,9 @@
 
+## Notes
+* Works only with Gym 0.9.5 or lower `pip install gym==0.9.5`
+
+
+
 ## Overview
 
 This is the code for [this](https://youtu.be/rRssY6FrTvU) video on Youtube by Siraj Raval on Q Learning for Trading as part of the Move 37 course at [School of AI](https://www.theschool.ai). Credits for this code go to [ShuaiW](https://github.com/ShuaiW/teach-machine-to-trade). 
